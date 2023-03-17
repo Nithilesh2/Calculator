@@ -30,7 +30,7 @@
   background-color: rgb(222, 243, 243);
 }
 
-.bt-c, .bt-pl, .bt-pe, .bt-mi, .bt-mu, .bt-di, .bt-do, .bt-e, .bt-b {
+.bt-c, .bt-pl, .bt-pe, .bt-mi, .bt-mu, .bt-di, .bt-do, .bt-e, .bt-a, .bt-b {
   height: 74px;
   width: 74px;
   margin-top: 10px;
@@ -46,8 +46,8 @@
 }
 
 .bt-e {
-  width: 148px;
   background-color: aquamarine;
+  transition: 2;
 }
 
 .bt-0 {
