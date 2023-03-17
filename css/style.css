@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.calci {
+  padding-top: 100px;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(197, 247, 195);
+  display: block;
+  justify-content: center;
+  text-align: center;
+  border: 5px solid black;
+}
+
+.display {
+  display: flex;
+  justify-content: flex-end;
+  height: 80px;
+  width: 310px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  text-align: right;
+  margin: 20px 0;
+  padding-right: 20px;
+  border-radius: 10px;
+  border: 3px solid black;
+  background-color: rgb(222, 243, 243);
+}
+
+.bt-c, .bt-pl, .bt-pe, .bt-mi, .bt-mu, .bt-di, .bt-do, .bt-e, .bt-b {
+  height: 74px;
+  width: 74px;
+  margin-top: 10px;
+  background-color: rgb(250, 250, 136);
+  font-size: 1.6rem;
+  font-weight: bold;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-c {
+  background-color: rgb(252, 64, 64);
+}
+
+.bt-e {
+  width: 148px;
+  background-color: aquamarine;
+}
+
+.bt-0 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-0:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-1 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-1:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-2 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-2:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-3 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-3:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-4 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-4:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-5 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-5:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-6 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-6:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-7 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-7:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-8 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-8:hover {
+  background-color: rgb(226, 232, 221);
+}
+
+.bt-9 {
+  height: 74px;
+  width: 74px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.bt-9:hover {
+  background-color: rgb(226, 232, 221);
+}/*# sourceMappingURL=style.css.map */
